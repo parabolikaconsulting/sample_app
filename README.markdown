@@ -1,5 +1,16 @@
 == Welcome to Rails
 
+
+SAMPLE APPLICATION FROM Ruby Rails TUTORIAL
+By Andrea Conti
+Parabolika Consulting
+
+
+
+
+
+
+
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
 
